@@ -155,7 +155,7 @@
 
 برای دانلود کتاب آموزشی میتونین از سایت libgenesis استفاده کنین.
 
-<a href="https://www.libgen.is/"><p style="text-align: center">Library Genesis</p></a>
+[Library Genesis](https://www.libgen.is/)
 
 منابع آموزشی انگلیسی مربوط، خیلی زیاد هستن. از منابع معروف که برای شروع مناسب هستن به صورت زیر طبقه بندی شدن.
 
