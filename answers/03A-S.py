@@ -34,3 +34,6 @@ for _ in range(int(input())):
     n, k = map(int, input().split())
     s = input()
     print(check_max_score(s, k))
+
+
+# arsham_mahdiun @Arshamm1997

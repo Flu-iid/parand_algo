@@ -13,5 +13,7 @@ int main()
         cin >> temp;
         answer += temp && a[i];
     }
-    cout << answer;
+    cout << answer << endl;
 }
+
+// arsham_mahdiun @Arshamm1997

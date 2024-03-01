@@ -9,3 +9,5 @@ else:
 # 2
 angles = [int(i) for i in input().split()]
 print("Yes" if all(angles) and sum(angles) == 180 else "No")
+
+# arsham_mahdiun @Arshamm1997

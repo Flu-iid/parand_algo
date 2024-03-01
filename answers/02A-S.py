@@ -11,3 +11,5 @@ for _ in range(int(input())):
     n = int(input())
     s = input()
     print("YES" if accept(s, n) else "NO")
+
+# arsham_mahdiun @Arshamm1997

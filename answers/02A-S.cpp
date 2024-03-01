@@ -31,3 +31,5 @@ int main()
         accept(s, n) ? cout << "YES\n" : cout << "NO\n";
     }
 }
+
+// arsham_mahdiun @Arshamm1997
