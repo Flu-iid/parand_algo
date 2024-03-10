@@ -10,5 +10,7 @@ print("Yes" if a > b else "No")
 # "1" < "10" is again like 1 < 10
 
 # if it feels complicated your free to use with int like below:
-# a, b = [int(i) for i in input().split()]
-# print("Yes" if a > b else "No")
+a, b = [int(i) for i in input().split()]
+print("Yes" if a > b else "No")
+
+# arsham_mahdiun @Arshamm1997
