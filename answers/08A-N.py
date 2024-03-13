@@ -21,3 +21,5 @@ def crazy_sum(n: int) -> int:
 
 n = int(input())
 print(crazy_sum(n))
+
+# arsham_mahdiun @Arshamm1997
