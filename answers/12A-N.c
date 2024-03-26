@@ -2,8 +2,7 @@
 int main()
 {
     char n[4], m[4]; // use 4 element to fill last with null
-    scanf("%s", n);
-    scanf("%s", m);
+    scanf("%s\n%s", n, m);
     n[3] = '\0'; // use null to signal end of char array
     m[3] = '\0';
     for (int i = 2; i >= 0; i--)
